@@ -1,19 +1,19 @@
 var featuredList = [{
-	name: 'srcset',
-	description: 'Parse and stringify the HTML <img> srcset attribute',
-	website: 'https://github.com/sindresorhus/srcset'
+	name: 'rasterizeHTML.js',
+	description: 'Renders HTML into the browser\'s canvas',
+	website: 'https://github.com/cburgmer/rasterizeHTML.js'
 }, {
-	name: 'detect-indent',
-	description: 'Detect the indentation of code',
-	website: 'https://github.com/sindresorhus/detect-indent'
+	name: 'pretty-html',
+	description: 'HTML logging that\'s easy on the eyes',
+	website: 'https://github.com/MatthewMueller/pretty-html'
 }, {
-	name: 'stringify-object',
-	description: 'Stringify an object using a custom indentation',
-	website: 'https://github.com/yeoman/stringify-object'
+	name: 'slip',
+	description: 'UI library for manipulating lists via swipe and drag gestures',
+	website: 'https://github.com/pornel/slip'
 }, {
-	name: 'devtools-detect',
-	description: 'Detect if DevTools is open',
-	website: 'https://github.com/sindresorhus/devtools-detect'
+	name: 'epub.js',
+	description: 'Enhanced eBooks in the browser',
+	website: 'https://github.com/futurepress/epub.js'
 }, {
 	name: 'URI.js',
 	description: 'URL mutation library',
